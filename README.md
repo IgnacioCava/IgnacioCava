@@ -70,7 +70,7 @@ Search through the tools I'm proficient at.
 
 ```javascript
 {
-  "auth":"JSON Web Token, Auth0",
+  "auth":["JSON Web Token, Auth0"],
   "design":["Figma", "Material UI"],
 }
 ```
