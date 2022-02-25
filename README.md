@@ -12,7 +12,7 @@ where I can keep **improving my skills** by constantly facing **new challenges**
 
 Search through the tools I'm proficient at.
 
-```http
+```javascript
   GET https://api.ignaciocava.com/stack?stackType=
 ```
 
@@ -30,48 +30,48 @@ Search through the tools I'm proficient at.
 
 #### Frontend
 
-```http
+```javascript
   GET https://api.ignaciocava.com/stack?stackType=frontend
 ```
 
 ```javascript
 {
-  languages: ["Javascript", "HTML", "CSS"],
-  frontend_technologies: [
+  "languages": ["Javascript", "HTML", "CSS"],
+  "frontend_technologies": [
     {
-      script: ["React", "Redux", "Redux/Toolkit"],
-      styling: ["SASS", "Styled Components", "CSS Modules", "Bootstrap"],
+      "script": ["React", "Redux", "Redux/Toolkit"],
+      "styling": ["SASS", "Styled Components", "CSS Modules", "Bootstrap"],
     }
 }
 ```
 
 #### Backend
 
-```http
+```javascript
   GET https://api.ignaciocava.com/stack?stackType=backend
 ```
 
 ```javascript
 {
-  languages: ["Javascript"],
-  backend_technologies: [
+  "languages": ["Javascript"],
+  "backend_technologies": [
     {
-      script: ["NodeJS" "Express", "Sequelize", "Node"],
-      database: ["PostgreSQL", "MongoDB", "Firebase"],
+      "script": ["NodeJS" "Express", "Sequelize", "Node"],
+      "database": ["PostgreSQL", "MongoDB", "Firebase"],
     }
 }
 ```
 
 #### Misc
 
-```http
+```javascript
   GET https://api.ignaciocava.com/stack?stackType=misc
 ```
 
 ```javascript
 {
-  auth:"JSON Web Token",
-  design:["Figma", "Material UI"],
+  "auth":"JSON Web Token, Auth0",
+  "design":["Figma", "Material UI"],
 }
 ```
 ---
