@@ -37,7 +37,7 @@ Search through the tools I'm proficient at.
 ```javascript
 {
   "languages": ["Javascript", "HTML", "CSS"],
-  "frontend_technologies": [
+  "frontendTechnologies": [
     {
       "script": ["React", "Redux", "Redux/Toolkit"],
       "styling": ["SASS", "Styled Components", "CSS Modules", "Bootstrap"],
@@ -54,9 +54,9 @@ Search through the tools I'm proficient at.
 ```javascript
 {
   "languages": ["Javascript"],
-  "backend_technologies": [
+  "backendTechnologies": [
     {
-      "script": ["NodeJS" "Express", "Sequelize", "Node"],
+      "script": ["NodeJS", "Express", "Sequelize", "Node"],
       "database": ["PostgreSQL", "MongoDB", "Firebase"],
     }
 }
