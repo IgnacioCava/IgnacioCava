@@ -48,7 +48,7 @@ Search through the tools I'm proficient at.
 #### Backend
 
 ```javascript
-  GET https://api.ignaciocava.com/stack?stackType=backend
+  GET https://api.ignaciocava.com/stack?stacktype=backend
 ```
 
 ```javascript
@@ -65,7 +65,7 @@ Search through the tools I'm proficient at.
 #### Misc
 
 ```javascript
-  GET https://api.ignaciocava.com/stack?stackType=misc
+  GET https://api.ignaciocava.com/stack?stacktype=misc
 ```
 
 ```javascript
