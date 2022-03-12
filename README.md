@@ -13,14 +13,14 @@ where I can keep **improving my skills** by constantly facing **new challenges**
 Search through the tools I'm proficient at.
 
 ```javascript
-  GET https://api.ignaciocava.com/stack?stackType=
+  GET https://api.ignaciocava.com/stack?stacktype=
 ```
 
 
 
 | Parameters  | Options |Type     | Description                |
 | :--------  | :-------|:-------  | :------------------------- |
-| `stackType`| frontend, backend, misc |`string` |  Stack area's technologies to filter |
+| `stacktype`| frontend, backend, misc |`string` |  Stack area's technologies to filter |
 
 #### Response headers:
 
@@ -31,7 +31,7 @@ Search through the tools I'm proficient at.
 #### Frontend
 
 ```javascript
-  GET https://api.ignaciocava.com/stack?stackType=frontend
+  GET https://api.ignaciocava.com/stack?stacktype=frontend
 ```
 
 ```javascript
