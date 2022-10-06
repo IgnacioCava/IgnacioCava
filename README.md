@@ -85,11 +85,6 @@ Search through the tools I'm proficient at.
 <a href='pi-front.herokuapp.com'>![This is an image](foodapp.png)</a>
 
 
-### I'm currently...
-
-- Working on **Training App - Web project, Fullstack**
-- Working on **Events App - Native project, Fullstack**
-- Learning **React Native**
 ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioCava)](https://github.com/anuraghazra/github-readme-stats)
