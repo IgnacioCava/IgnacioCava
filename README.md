@@ -84,9 +84,6 @@ Search through the tools I'm proficient at.
 **Food recipes App**
 <a href='pi-front.herokuapp.com'>![This is an image](foodapp.png)</a>
 
-Training App - **WIP**
-![This is an image](trainingapp.png)
-
 Events App - **WIP**
 
 ![This is an image](eventsapp.png)
