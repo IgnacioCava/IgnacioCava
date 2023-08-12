@@ -83,8 +83,3 @@ Search through the tools I'm proficient at.
 
 **Food recipes App**
 <a href='pi-front.herokuapp.com'>![This is an image](foodapp.png)</a>
-
-
-## My Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioCava)](https://github.com/anuraghazra/github-readme-stats)
